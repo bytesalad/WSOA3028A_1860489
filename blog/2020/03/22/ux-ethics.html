@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en" dir="lft">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Inclusive Websites
+        </title>
+        <meta property="og:title" content="Mbeki's Swing" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://bytesalad.github.io/WSOA3028A_1860489/" />
+        <meta property="og:image" content="https://bytesalad.github.io/WSOA3028A_1860489/header.jpg" />
+        <meta name="description" content="A blog website about the life of Johnathan Mbeki and his ideas and perceptions of hypermedia.">
+        <meta name="keywords" content="jazz,gospel,Sophiatown,Johannesburg,South Africa,hypermedia,hypertext,WWW,student,interactive media,media">
+
+        <script src="../../../../nav.js" type="module" async="true"></script>
+    </head>
+
+    <body>
+        <header>
+            <h1>Mbeki's Swing!</h1>
+            <img src="../../../../header.jpg"
+                alt="Image of a person playing the double bass."
+                width="400"
+                height="341">
+            <nav>
+                <ul>
+                    <li><a href="../../../../index.html">Home</a></li>
+                    <li><a href="../../../../blog/blog-main.html">Blog</a></li>
+                    <li><a href="../../../../credit/credit.html">External Credit</a></li>
+          
+                    <!-- More nav links to be added here -->
+                </ul>
+            </nav>
+            <button type="button" class="back">
+                Back
+            </button>
+        </header>
+
+        <article>
+            <!--Text of the blog to be added here-->
+            <h2>
+                Ethical and Technical Considerations of UX/UI Design Principles to Create Inclusive Websites
+            </h2>
+            <h2>
+                Published Date: 24/03/2020
+            </h2>
+            <p>
+                A mouse and keyboard; a monitor and pair of speakers, or a touch-screen interface have become so generally used as methods of interfacing with a computer.
+                Common webpage layouts that read left-to-right, top-to-bottom and contain modules of content arranged like a catalog are standard practice in web design. 
+                These practices may be synonymous with digital media design and are implemented without second-thought. Are these methods as effective and inclusive as we
+                accept them to be? The short answer is no they are not. They may act as barriers to access technology and information for people not familiar with the western 
+                system, who are physically impaired or who do not have prior experience with using technology. In this blog post, I will explore the standard UX of technology 
+                and hypermedia and I will also provide an alternative, more inclusive solutions to them based on already existing research and my ideas.
+            </p>
+            <h3>
+                Visual Impaired Persons:
+            </h3>
+            <p>
+                In a paper written by Luis Francisco-Revilla and Jeff Crow [1], the design of modular and multiple-column layout web pages are critiqued as not being
+                accessible to visually impaired people. This is due to the layout complexity that makes it difficult for screen readers to be able to interpret the content on
+                the web page. As the complexity of a web page increases, it is found that it takes longer to interpret the web page.
+            </p>
+            <figure>
+                <img src="ux-ethics-0.png" 
+                alt="Example modular web page."
+                height="400"
+                width="800">
+              
+                <figcaption>Example modular web page. Credit: <a href="https://edition.cnn.com/">CNN</a></figcaption>
+            </figure>
+            <p>
+                A possible solution to this problem as proposed in the paper is a system that can discover elements used as reference points on a website, interpret what the 
+                layout of the website is and use that information to help the user understand what is currently on the web page. The system proposed in this paper is called 
+                WARP V.I.P and acts as an intermediary between the web page and the screen-reader or user.
+            </p>
+            <h3>
+                Other Cultures:
+            </h3>
+            <p>
+                I believe that one of the assumptions that engineers and content developers need to reconsider is the one that the western ideas of the layout of media are
+                accessible to everyone. Many societies around the world are used to writing and reading the information in ways that are different from the west. For example,
+                in the traditional Chinese way of writing, text can be arranged to progress from top to bottom in a cell-like manner. It is through the involvement of the west
+                that societies have adapted to a different method of structuring writing. It may not always be in their best interest and may not always be the most efficient 
+                and understandable way of doing things. It may also involve having to teach certain societies to rearrange the way they historically write and read.
+            </p>
+            <figure>
+                <img src="chinese-calligraphy.png" 
+                alt="Person writing out Hanzi."
+                height="400"
+                width="800">
+              
+                <figcaption>Person writing out Hanzi. Credit: <a href="https://www.chinahighlights.com/travelguide/culture/chinese-calligraphy.htm">China Highlights</a></figcaption>
+            </figure>
+            <p>
+                A solution I propose is a layout management plugin that can be integrated with a browser to reinterpret the layout of text on a page. It may take in an HTML
+                class argument for tags that may be required to be rendered differently. This solution may cause 
+                structural problems with the style elements of the page though but it may be sufficient for pages rendered in simple HTML.
+            </p>
+            <figure>
+                <img src="tag-example.png" 
+                alt="An example of how a html tag class may be used to identify when text needs to be rendered differently"
+                height="50"
+                width="500">
+              
+                <figcaption>An example of how a html tag class may be used to identify when text needs to be rendered differently.</figcaption>
+            </figure>
+            <h3>
+                Experience of using the technology:
+            </h3>
+            <p>
+                The mouse and keyboard is the de facto input technology for computer systems and it has been this way for many years. Many people who use computers in their 
+                daily lives do so with the mouse and keyboard as a matter of intuition. It can be hard to imagine a computer without imagining a mouse and keyboard. Yet, for
+                a person new to using this technology, it can be quite difficult to master the input and even more so for those with disabilities. Already the invention of
+                the touchscreen interface has made this easier. But we can consider other kinds of technologies that allow us to include other members of the population too.
+            </p>
+            <p>
+                In his paper "Alternative Approaches to Interface Technology", Steve Gibson [2] discusses human-computer interface technologies and implementations that might
+                make using a computer system more accessible and more intuitive (more like navigating and interacting with physical spaces). He describes what he calls a 
+                "hands-free" tracking system that can use ultrasound to detect how a person moves around within a limited physical space connected to a computer system.
+                This idea is very close to the Virtual Reality interface device of today. Perhaps interface techniques for the Web that make appropriate use of VR
+                technology is worth considering more deeply for the future.
+            </p>
+            <h3>
+                Conclusion:
+            </h3>
+            <p>
+                As explored in this blog, I believe that there is much work to be done exploring alternative ways of representing information and interacting with information
+                in computer systems, especially related to Web technology. The current implementations can be seen as ineffective for users of cultures other than the west,
+                physically impaired people, and those who have not used digital technology before. Possible solutions outlined are systems that make a better attempt at 
+                interpreting modular webpages for users with screen readers, browsers that can re-arrange web content for cultures who are used to reading text in different
+                ways and computer interfacing technology that more closely relates to interacting and navigating physical spaces.
+            </p>
+            <h3>
+                References:
+            </h3>
+            <ul>
+                <li>
+                    [1] <cite><a href="https://dl.acm.org/doi/pdf/10.1145/1557914.1557943?casa_token=hSpabIAUIwwAAAAA:UDaVVDu6al12unneE8uAwrC91P8UdFSQEnXT3NxR0YoFHFrbQbmDGn6T0dlRAygpbfbOsigOdP6Azw">Interpreting the Layout of Web Pages</a></cite>
+                </li>
+                <li>
+                    [2] <cite><a href="https://s3.amazonaws.com/academia.edu.documents/3442618/How_Should_Interactive_Media_Be_Discussed_For_Successful_Requirements_Engineering.pdf?response-content-disposition=inline%3B%20filename%3DHow_Should_Interactive_Media_Be_Discusse.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIATUSBJ6BAKOPGABSI%2F20200324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200324T093322Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGAaCXVzLWVhc3QtMSJHMEUCIH41ZfUzUmgxjaHIwI0GxJpSWdDi0uxPahItksbk1lPZAiEA93asvnogVSBLpawLKn%2BdOGt7LqvbmO%2FkjHMFZepmuvMqtAMIWBAAGgwyNTAzMTg4MTEyMDAiDLp%2FrB9z7P4%2Bkxq1nCqRA2tfyDzgFrFriPyyS0abYzHJ8%2FV123KPAeH6pWS4otAshc3CgfvD9ZyAV801yYxRT1cO99%2B%2BLK8SK4D9tjtLpMX3DJUfuOZ1pofyxL01Vv1xC9tPv4cI1cEEW7hhfmZuy6qh7tvf3KOjKlSRg%2BBKEjCb1hu92NR83%2Fb4viDlZDkiWOLFZby08rPk5jXF%2BgO9VfT2LsNAOkrzNHD4j5z2fi%2FjGT%2BTAwG%2BebfHKYrxnMo55oHyanASASZleNbpQnkOKVtgGSHovZj1TMxWQArpnIuSFC1X1r4HbE9xAtbdByJjxl555kelRhjn%2FO%2BLvTgSwoCJfbPwwWzPgwC9Kmgre2VcvoEDwKQrzntDr0zokMcKuU38v7Vba1lXevw%2FQFZCuc97PSt6J%2FzsD9Qpo3lNdMY78YYUr04nI4W5JiJZEG71crRSy2QXWLiwEEsvzl07T2zoRUBVMrASjKOmM0B7h7wx4ei0i8cIhqN9yTvdl0Y6aNtXJMwmlEsKRh1k1iEBpCv4OHQ%2FSvl5xn9fiL5tCBDfML7p5vMFOusBJKODrC4LcsWs7DyqECj7pERvaqt1%2Fdk25AW1dLA7IH86FPxD5nJubboifJl0FRy5j6Bsaux82Eo6090lo6Z7DjpLU4utA10WevLBYBi8IqjTBKwlim3UVNKMZMspd%2B6Wsk4fwFQ%2Fwu%2F03TNyU3kiimj7EGIPjBU2W5VOTQ%2BfzYfelLgpndx%2B5FQkewbGjeYdbAkBq7R4ke5PX89NRtTWGsLwM9E4o4A%2FMr%2Br4efmeo5V%2FhMEeTyGjuFC1PhTrQXm4WlB04O6NQe%2Bypuilvr7IgaftjzCLF2RlHSqkCAcV7YrdCVnaUHtZohLDA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=771cfda62863126a388cd3052ec3a9e5ae52e36c8186452e2516f91c70a8a642#page=42">Alternative Approaches to Interface Technology</a></cite>
+                </li>
+            </ul>
+        </article>
+    </body>
+</html>

@@ -3,9 +3,9 @@ Spark of Genius.
 (Narrated by Johnathan Mbeki.)
 I woke up this morning with the tune in my head... I can't wait to play it for Simphiwe... but first I need to write it down. It's like God is speaking to me... Is this melody the spark I need to write a famous song?
 
-Quickly I jotted the notes down on a piece of paper. Hopefully I got the notes right. Simphiwe will check them for me when I show him another time.
+Quickly I jotted the notes down on a piece of paper. Hopefully, I got the notes right. Simphiwe will check them for me when I show him another time.
 
-Oh no I'm gonna be late for work!
+Oh no, I'm gonna be late for work!
 
 Must rush! Must get dressed! Must wash my face! What am I going to wear?
 
