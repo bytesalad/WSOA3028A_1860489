@@ -21,9 +21,14 @@ Besides us always playing harmoniously together in the church band, our friendsh
 wrong note with him or he hits a wrong note with me, but I have just come to realise that there really are no wrong notes... just the life we spend
 together. As long as we continue to appreciate each other, we can move forward and make a success of our music.
 
+Because he heard Simphiwe playing the piano, Mozza (his real name is Morris) ran onto the stage and picked up his saxophone to play the melody. We call him
+Mozza because of his smart expression while playing the instrument.
+
+This is how it sounded:
+
+[Music]
+
 Chord progression:
 C7 | C7 | C7 | C7 |
 F7 | F7 | C7 | C7 |
 G7 | F7 | C7 | G7 |
-
-[Music]
