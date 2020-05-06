@@ -50,7 +50,71 @@ a method of tracking ownership of information but we may need to bear in mind th
 content creation sites. 
 
 [GitHub commits - image]
+Since GitHub is the "largest code hosting service in the world" [1], its usage may prove to be a useful way to look at geographies of participation. To add to that, a code hosting service
+like this is useful to consider because this paper is aimed primarily at digital information geographies. Software drives the way one interacts with the internet and the parameters
+of how it can be used. How one designs the software that drives the internet and its information networks also affects how different societies represent themselves and their
+locations on the internet (and whether they even can at all!).
 
+If one considers the image above, the number of GitHub users or commits per country is shown. We can see once again that the data is favourable to developed countries and the northern
+hemisphere. The differences between countries are also stark with the USA overwhelming everyone else by far. Most of the software written can be said to originate in specific countries.
+This software drives the information age.
+
+Of course, for some countries, alternative ways of managing and storing code might be more realistic than GitHub because of broadband restrictions. So we need to bear in mind that once 
+again, the data in this paper is not the be-it and end-all of this analysis.
+
+[Wikipedia edits - image]
+Wikipedia is a massive encyclopedia of information that can be contributed to by anyone with internet access. It is also the most used encyclopedia in the world by far [1]. In their paper,
+Graham et al. points out that it supports 282 languages (40 of those with more than 10 000 articles). "In other words, edits to Wikipedia have tremendous power to shape content accessed 
+by the majority of internet users around the world."[1] In theory, everyone and anyone from any country should be able to put up edits to Wikipedia and we should see an even spread of
+participation. This is not the case.
+
+The above image illustrates an unequal landscape. It shows how the majority of Wikipedia edits over 3 months originate from a select few countries in the north. 
+
+[Percentage edits to english from local people - image]
+This image describes the percentage of Wikipedia edits made by local people about their places. To me, this data is truly shocking. This is because, especially in Africa and the global
+South, very little of a country's own information is written by its people on Wikipedia. Who is writing their narratives for them?
+
+Once again, Wikipedia is but one way of writing information on the internet and some countries may prefer other methods that are more comfortable to them. Also, the data in the above image
+is based only on edits to English language Wikipedia pages. This may be problematic because there are many countries where English is not spoken as much and is not the preferred language
+to document information.
+
+Section: Geographies of representation.
+In this section, Graham et al. make use of Google Search, OpenStreetMap, Freebase, and Geonames data to look at "contours of representation" of information augmentations about geography
+around the world. In simple terms, how is geographical information of the planet represented using information geographies? (Read that sentence a few times over if you need to).
+
+[number of google search results country name - image]
+If we look at the above image from Graham et al. [1], we can see that Google search results per country name indicates the inequalities of access and participation that have been mentioned
+before.
+
+[Picture of OSM - image]
+OpenStreetMap is a roadmap that is free and open-source and is used as a starting point for many other services commonly used around the world. Although one can see that there are
+areas that are darker (more densely mapped) than others, it is quite smooth on average. Certain areas have very little data for obvious reasons (such as desert areas
+and places where few people live and are required to move around in). Certain densely mapped areas such as "California alone accounts for as much content as the whole continent of Africa."
+
+[Number of georeferenced objects in freebase]
+Freebase is a "general-purpose knowledge base" that contains many entities and Geonames is "the world’s largest and probably most-used gazetteer or directory of place names." We can see
+that Freebase data is densely concentrated in just a select few countries (such as the USA and in European countries) and hardly anywhere else in the world. It is calculated in the paper
+that there are very few placenames per thousand inhabitants in countries such as India as compared to the US (one for every 1500 people). This is problematic because Freebase data is
+used by Google to help people find important places such as shops and monuments around them.
+
+[Geonames - image]
+If one looks at the Geonames data collected by Graham et al., one can see a slightly better-looking spread of information but the density still reflects what is discussed about Freebase.
+USA still accounts for "25% of the entire database." 
+
+This data is important to consider because, as explained in the paper, Freebase and Geonames are used for many different information services on the internet such as encoding social media
+posts with geographical metadata and annotating shops and restaurants. This unequal landscape could have lasting problematic effects on information geography and representation of 
+people across the world. Many areas such as North America and Europe have dense representation on different widely used platforms yet other countries hardly.
+
+Section: Conclusion
+To end their paper, Graham et al. reinforces the idea that the current technology for representing information online is not too different to traditional information technologies
+in terms of how equally different people's information is represented (such as book publishing and academic journal production). Their research provides a starting point for further
+research into the likely causes for such data, how it can be related to the impacts of post-colonial modes of governance and deeper dives into data about information geographies.
+
+It is stressed further that we need to focus on the questions of what and where is represented and who can participate in this process. "In order for Google, Wikipedia,
+OSM and many other types of geographic information to be able to augment cities, geographic content needs to be unfixed from its containers (e.g. books or universities) 
+and then simultaneously fixed or tethered to specific locations, accessible to those in situ armed with the right technological affordances." 
+
+On that note, I end this blog and thank you for reading.
 
 References:
 [1] M. Graham, S. De Sabbata, and M. A. Zook, Towards a study of information geographies: (im)mutable augmentations and a mapping of the geographies of information. Wiley Online Library, 2015.
