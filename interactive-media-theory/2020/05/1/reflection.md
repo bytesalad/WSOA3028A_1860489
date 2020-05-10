@@ -71,7 +71,7 @@ Graham et al. points out that it supports 282 languages (40 of those with more t
 by the majority of internet users around the world."[1] In theory, everyone and anyone from any country should be able to put up edits to Wikipedia and we should see an even spread of
 participation. This is not the case.
 
-The above image illustrates an unequal landscape. It shows how the majority of Wikipedia edits over 3 months originate from a select few countries in the north. 
+The above image illustrates an unequal landscape. It shows how the majority of Wikipedia edits over 3 months originate from a select few countries in the north.
 
 [Percentage edits to english from local people - image]
 This image describes the percentage of Wikipedia edits made by local people about their places. To me, this data is truly shocking. This is because, especially in Africa and the global
