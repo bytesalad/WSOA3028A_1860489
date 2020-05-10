@@ -5,7 +5,8 @@ geographies of information
 
 Before I can get onto tackling the ideas and implications of this paper, I need to lay some groundwork. What is geography exactly? According to National Geographic, [2]
 "Geography is the study of places and the relationships between people and their environments." I want to draw particular attention to "the relationships between people and their
-environments." This will be useful later on in this post. In their paper [1], Graham et al. refers to a common definition of information as "the imparting of knowledge" (Oxford English Dictionary 2015). With these two definitions at the back of your mind, let's get to the details of "Information Geographies."
+environments." This will be useful later on in this post. In their paper [1], Graham et al. refers to a common definition of information as "the imparting of knowledge" (Oxford English 
+Dictionary 2015). With these two definitions at the back of your mind, let's get to the details of "Information Geographies."
 
 The idea of "Information Geographies" may sound foreign to you but it is used by people all the time. You may not realise how much you make use of it or even need it for daily activities.
 Information Geography is information that exists about geographical locations. It is also information that is created at a specific geographical location. In the paper, the example of the 
@@ -42,10 +43,12 @@ in a way that is not the western standard. For users accessing information throu
 information about others (and potentially affecting the way they are represented negatively).
 
 Section: Geographies of participation.
-Three variables are compared country by country in this section namely: domain names, GitHub users, and Wikipedia edits. These items are chosen because they are "communities of practice that transcend the particularise of any one place" according to Graham et al [1].
+Three variables are compared country by country in this section namely: domain names, GitHub users, and Wikipedia edits. These items are chosen because they are "communities of practice 
+that transcend the particularise of any one place" according to Graham et al [1].
 
 [Distribution of Domain Names - Image]
-In the above image, a correlation to previous data can be seen. Comparatively higher amounts of domain names are registered in the northern hemisphere to specific countries than in the southern hemisphere. It can also be seen that even though some populations are quite large, they may not have a correspondingly large amount of domains registered. Domain names may be 
+In the above image, a correlation to previous data can be seen. Comparatively higher amounts of domain names are registered in the northern hemisphere to specific countries than in the 
+southern hemisphere. It can also be seen that even though some populations are quite large, they may not have a correspondingly large amount of domains registered. Domain names may be 
 a method of tracking ownership of information but we may need to bear in mind that certain domains allow users from multiple countries to publish information such as social media and
 content creation sites. 
 
