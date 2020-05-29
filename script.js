@@ -7,6 +7,10 @@ const navList = [
     {title: "Style Guide", link: "./style-guide/style-guide.html"}
 ]
 
+const metaList = [
+    {property: "", content: ""},
+]
+
 const createList = () => {
     let ul = document.createElement('ul');
     for (let item of navList){
@@ -21,5 +25,5 @@ const createList = () => {
 };
 
 const nav = document.querySelector('nav');
-li.appendChild(a);
-ul.appendChild(li);
+const ul = createList();
+nav.appendChild(ul);
