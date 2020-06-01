@@ -1,0 +1,29 @@
+.nav-list {
+    color: black;
+}
+
+.header-image {
+    height: 10%;
+    width: 10%;
+}
+
+header {
+    border-color: #4d3e3e;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 2%;
+}
+
+.image-border {
+    border-color: #4d3e3e;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 2%;
+}
+
+body {
+    background-color: #fff3cd;
+}
+
+/*background-color: #4d3e3e;
+*/
