@@ -15,7 +15,7 @@ const createList = () => {
         let a = document.createElement('a');
         a.innerText = item.title;
         a.href = item.link;
-        a.className = "nav-list";
+        //a.className = "nav-list";
         li.appendChild(a);
         ul.appendChild(li);
     }
