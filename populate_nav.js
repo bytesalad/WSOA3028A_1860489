@@ -1,10 +1,10 @@
 const navList = [
-    {title: "Home", link: "/index.html"},
-    {title: "Interactive Media Theory", link: "/interactive-media-theory/blog-main.html"},
-    {title: "Johnathan Mbeki", link: "/johnathan-mbeki/johnathan-mbeki-blog.html"},
-    {title: "Johnathan Mbeki Contact", link: "/contact/johnathan-mbeki-contact.html"},
-    {title: "External Credit", link: "/credit/credit.html"},
-    {title: "Style Guide", link: "/style-guide/style-guide.html"}
+    {title: "Home", link: "/WSOA3028A_1860489/index.html"},
+    {title: "Interactive Media Theory", link: "/WSOA3028A_1860489/interactive-media-theory/blog-main.html"},
+    {title: "Johnathan Mbeki", link: "/WSOA3028A_1860489/johnathan-mbeki/johnathan-mbeki-blog.html"},
+    {title: "Johnathan Mbeki Contact", link: "/WSOA3028A_1860489/contact/johnathan-mbeki-contact.html"},
+    {title: "External Credit", link: "/WSOA3028A_1860489/credit/credit.html"},
+    {title: "Style Guide", link: "/WSOA3028A_1860489/style-guide/style-guide.html"}
 ]
 
 const createList = () => {
