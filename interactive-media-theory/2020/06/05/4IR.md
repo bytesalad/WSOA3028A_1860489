@@ -1,0 +1,67 @@
+Title: 4IR and What It Could Mean for South Africa.
+
+Introduction:
+One of the reasons I appreciate taking the Interactive Media III course this year, is how much light it sheds on the socio-political, economic, and
+cultural implications of being a practitioner of technology. I have had the privilege recently of reading Ewan Sutherland's paper called "The Fourth 
+Industrial Revolution – The Case of South Africa" which reflects on the South African President's decision to incorporate the Fourth Industrial 
+Revolution (4IR) into the industrial policy for South Africa (SA). He also gives a detailed perspective into what the 4IR could mean for the South African
+people of the future. His perspective: not very good at all unless certain political and social circumstances of the country are addressed and 
+considered very seriously.
+
+To read the full paper, see the link in my references at the bottom of the page or click here [cite].
+link: https://www.tandfonline.com/doi/full/10.1080/02589346.2019.1696003?casa_token=Xf9xJfUZwsEAAAAA%3AhujRL0ANJ4X9LpTqDSzaj3qHSck6nqrGWiLfDy1jviA2UU_J4xBwBV3jf_OhWYjfGvzsyVfA29Gcwqk
+
+Heading: What is the "4IR"?
+
+[4IR]
+Image by <a href="https://pixabay.com/users/jeferrb-590530/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782707">jeferrb</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782707">Pixabay</a>
+
+The Fourth Industrial Revolution (4IR) is described as an umbrella term for the collective implementation of several new and emerging technologies such as but
+not limited to "3D-printing, artificial intelligence, big data, the industrial internet of things, and robotics" [1]. Sutherland claims instead that it is a
+device used by those "... trying to create particular economic and commercial futures..." and may not be a revolution at all as it is based on emerging 
+technologies that can be implemented in many different ways. They will have varying economic and social implications and may not solve already existing 
+problems in a country like South Africa.
+
+Heading: Why should we (South Africans) care?
+
+[infrastructure]
+Image by <a href="https://pixabay.com/users/fancycrave1-1115284/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=821500">fancycrave1</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=821500">Pixabay</a>
+
+It is not just the technology and its optimistic futuristic promises that South Africans should be focusing on, but also on the political and economic 
+implications it may have. South Africa has a history of difficulty regarding complex policy-making, legislation, and decisions regarding the
+telecommunications sector. The greatest risk involved for South Africa, I believe, with the ideals of the 4IR is in its potential to endanger existing 
+jobs, increase unemployment and reduce demand for low-skilled workers (as Sutherland points out).
+
+The South African economy strives on farming, mining, and the informal sector which consequently, is at risk if automation technologies are implemented
+incorrectly. The country already suffers from high unemployment and lack of skills. This is further worsened by the current education system's 
+difficulty to "... produce sufficient graduates in science, technology, engineering, and mathematics (STEM)." [1]
+
+Several areas of development are also required for 4IR technology such as cybersecurity, data protection, infrastructure, and skills development as made clear
+by Sutherland. These are all systems and policies that would take time to instantiate and careful governance to maintain. Corruption in the state, has already
+had adverse effects on the railway and electricity infrastructure of the country. [1]
+
+[cybersecurity]
+
+
+Heading: The Responsibility of the South African Government.
+
+In Sutherland's paper, several key areas of responsibility are pointed out. Policies will need to be addressed, both existing and new, there will need to be
+sufficient supply of skills, a focus on a higher-skilled workforce that will attract foreign investment, the export market must have few or no trade barriers,
+growing inequality must be addressed and reversed and all aspects of the 4IR will need to be developed democratically with full accountability.
+
+One could say that the "4IR" is going to take place across the world one way or another and that countries who choose not to take part may be further excluded
+from the global economic space. Therefore, I believe, the correct approach to new and emerging technologies will need to be adopted. It is also the 
+responsibility of the South African engineer, content creator, and practitioner of technology to keep in mind the implications of their research and creations
+within the broader scale of socio-political and economic ideas.
+
+Heading: Conclusion
+
+This is quite a dense political paper with a view on the 4IR and South Africa that is not positive. Sutherland's perspectives on new technology and the 
+reckless implementation of it is important to consider as we move forward as a nation (South Africa). To me, it is more of a statement of warning against
+neglecting the significance of careful planning, consideration, and a touch of skepticism toward what the ideas of the 4IR could mean for South Africa.
+
+Thank you for taking the time to read this. Please check out the reference below to read the paper for yourself too.
+
+References:
+[1]C. Fuchs and E. Horak, "Africa and the digital divide", Telematics and Informatics, vol. 25, no. 2, pp. 99-116, 2008. Available: 10.1016/j.tele.2006.06.004.
+link: https://www.tandfonline.com/doi/full/10.1080/02589346.2019.1696003?casa_token=Xf9xJfUZwsEAAAAA%3AhujRL0ANJ4X9LpTqDSzaj3qHSck6nqrGWiLfDy1jviA2UU_J4xBwBV3jf_OhWYjfGvzsyVfA29Gcwqk
