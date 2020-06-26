@@ -8,18 +8,16 @@ const navList = [
 ]
 
 const createList = () => {
-    let ul = document.createElement('ul');
+    let sec = document.createElement('section');
     for (let item of navList){
-        let li = document.createElement('li');
-        li.className = "nav-list";
         let a = document.createElement('a');
+        a.className = 'nav-list';
         a.innerText = item.title;
         a.href = item.link;
         //a.className = "nav-list";
-        li.appendChild(a);
-        ul.appendChild(li);
+        sec.appendChild(a);
     }
-    return ul;
+    return sec;
 };
 
 //may return to this at later stage. Code to populate the header.

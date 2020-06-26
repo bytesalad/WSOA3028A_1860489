@@ -1,17 +1,29 @@
 .nav-list {
-    color: black;
+    color: white;
+    background-color: #4d3e3e;
+    border: 1px #fff3cd solid;
+    padding: 10px;
+    height: 50px;
+    border-radius: 0.5%;
+    display: inline-flex;
+    text-decoration: none;
 }
 
 .header-image {
-    height: 10%;
-    width: 10%;
+    height: 90px;
+    width: 90px;
 }
 
 header {
+    color: #4d3e3e;
     border-color: #4d3e3e;
     border-width: 10px;
     border-style: solid;
     border-radius: 2%;
+}
+
+.header-container {
+    display: flex;
 }
 
 .image-border {
@@ -27,11 +39,17 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+article {
+    border: 1px #4d3e3e solid;
+    padding: 10px;
+    border-radius: 0.5%;
+}
+
 .back {
     background-color: #4d3e3e; /* Green */
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 15px 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
