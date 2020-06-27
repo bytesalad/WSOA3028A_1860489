@@ -11,7 +11,7 @@ const createList = () => {
     let sec = document.createElement('section');
     for (let item of navList){
         let a = document.createElement('a');
-        a.className = 'nav-list';
+        a.className = 'nav-element';
         a.innerText = item.title;
         a.href = item.link;
         //a.className = "nav-list";
